@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "386059018959",
+    "firebase_url": "https://lojavirtualide-a6854.firebaseio.com",
+    "project_id": "lojavirtualide-a6854",
+    "storage_bucket": "lojavirtualide-a6854.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386059018959:android:110d42a73a447655d30dba",
+        "android_client_info": {
+          "package_name": "br.com.loja_virtual_ide.loja_virtual_ide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386059018959-h2j0vpi697vq4jj4i29rclq7q7sqtluc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.loja_virtual_ide.loja_virtual_ide",
+            "certificate_hash": "94b11b75b58efa4e6bfd8dbf923a40821ed3942a"
+          }
+        },
+        {
+          "client_id": "386059018959-vlgq3v39g4bo7b83uda1knu7hkum0u3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwY78K_nlpWOxso4Y_YuZAbSjnC-zSGoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386059018959-vlgq3v39g4bo7b83uda1knu7hkum0u3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
